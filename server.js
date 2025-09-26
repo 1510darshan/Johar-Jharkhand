@@ -109,11 +109,11 @@ const startServer = async () => {
         }
 
         // Initialize database tables
-        const tablesInitialized = await initializeTables();
-        if (!tablesInitialized) {
-            console.error('❌ Failed to initialize database tables.');
-            process.exit(1);
-        }
+        // const tablesInitialized = await initializeTables();
+        // if (!tablesInitialized) {
+        //     console.error('❌ Failed to initialize database tables.');
+        //     process.exit(1);
+        // }
 
         // Start server
         app.listen(PORT, () => {
