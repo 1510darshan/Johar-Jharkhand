@@ -1,0 +1,294 @@
+{
+  "Simdega": [
+    {
+      "name": "Rekha Devi",
+      "city": "Simdega",
+      "mobile": "8336618692, 9657029308",
+      "email": "rekhadevi73@example.com",
+      "tourist_spot_covered": "Rock Garden Ranchi",
+      "language": "Hindi, Bengali",
+      "photo": "https://www.shutterstock.com/image-photo/passport-picture-asian-young-woman-260nw-1016732269.jpg",
+      "averageRating": 4.4,
+      "reviews": [
+        { "user": "Arjun Patel", "rating": 4.5, "comment": "Very knowledgeable about the area." },
+        { "user": "Lata Sharma", "rating": 4.3, "comment": "Friendly and made the tour enjoyable." }
+      ]
+    }
+  ],
+  "Chaibasa": [
+    {
+      "name": "Ajay Kumar",
+      "city": "Chaibasa",
+      "mobile": "9759520702, 9247029882",
+      "email": "ajaykumar458@example.com",
+      "tourist_spot_covered": "Dalma Wildlife Sanctuary",
+      "language": "Hindi, Bengali",
+      "photo": "https://www.shutterstock.com/image-photo/portrait-face-headshot-man-studio-260nw-2303040263.jpg",
+      "averageRating": 4.6,
+      "reviews": [
+        { "user": "Vijay Singh", "rating": 4.7, "comment": "Excellent guide for wildlife tours." },
+        { "user": "Rina Das", "rating": 4.5, "comment": "Very patient and informative." }
+      ]
+    },
+    {
+      "name": "Kavita Sharma",
+      "city": "Chaibasa",
+      "mobile": "9056789517, 9502172059",
+      "email": "kavitasharma212@example.com",
+      "tourist_spot_covered": "Parasnath Hills",
+      "language": "Hindi, Santhali, English",
+      "photo": "https://randomuser.me/api/portraits/women/38.jpg",
+      "averageRating": 4.8,
+      "reviews": [
+        { "user": "Anil Kumar", "rating": 5, "comment": "Great knowledge of local culture." },
+        { "user": "Meena Roy", "rating": 4.6, "comment": "Highly recommended for hill tours." }
+      ]
+    }
+  ],
+  "Dumka": [
+    {
+      "name": "Suresh Prasad",
+      "city": "Dumka",
+      "mobile": "9269606548, 9678383149",
+      "email": "sureshprasad499@example.com",
+      "tourist_spot_covered": "Sun Temple Ranchi",
+      "language": "Hindi, English, Bengali",
+      "photo": "https://randomuser.me/api/portraits/men/45.jpg",
+      "averageRating": 4.7,
+      "reviews": [
+        { "user": "Sunita Gupta", "rating": 4.8, "comment": "Amazing guide for temple tours." },
+        { "user": "Rakesh Mehra", "rating": 4.6, "comment": "Very detailed and helpful." }
+      ]
+    }
+  ],
+  "Bokaro": [
+    {
+      "name": "Chandan Singh",
+      "city": "Bokaro",
+      "mobile": "9625941243, 9153048879",
+      "email": "chandansingh862@example.com",
+      "tourist_spot_covered": "Jagannath Temple Ranchi",
+      "language": "Hindi, English",
+      "photo": "https://randomuser.me/api/portraits/men/19.jpg",
+      "averageRating": 4.5,
+      "reviews": [
+        { "user": "Priya Jain", "rating": 4.6, "comment": "Good guide for temple visits." },
+        { "user": "Amit Roy", "rating": 4.4, "comment": "Friendly and punctual." }
+      ]
+    }
+  ],
+  "Ranchi": [
+    {
+      "name": "Mohan Kumar",
+      "city": "Ranchi",
+      "mobile": "8553710220, 8203955060",
+      "email": "mohankumar186@example.com",
+      "tourist_spot_covered": "Trikuta Hills",
+      "language": "Hindi, Nagpuri, English",
+      "photo": "https://randomuser.me/api/portraits/men/33.jpg",
+      "averageRating": 4.9,
+      "reviews": [
+        { "user": "Neha Singh", "rating": 5, "comment": "Best guide for hill areas." },
+        { "user": "Karan Sharma", "rating": 4.8, "comment": "Very professional and knowledgeable." }
+      ]
+    }
+  ],
+  "Hazaribagh": [
+    {
+      "name": "Rohit Singh",
+      "city": "Hazaribagh",
+      "mobile": "7506495921, 8068611359",
+      "email": "rohitsingh968@example.com",
+      "tourist_spot_covered": "Netarhat",
+      "language": "Hindi, Bengali",
+      "photo": "https://randomuser.me/api/portraits/men/27.jpg",
+      "averageRating": 4.3,
+      "reviews": [
+        { "user": "Suman Das", "rating": 4.4, "comment": "Good guide for nature tours." },
+        { "user": "Rita Verma", "rating": 4.2, "comment": "Helpful and friendly." }
+      ]
+    },
+    {
+      "name": "Sanjay Singh",
+      "city": "Hazaribagh",
+      "mobile": "7817751892, 7931806130",
+      "email": "sanjaysingh810@example.com",
+      "tourist_spot_covered": "Rock Garden Ranchi",
+      "language": "Hindi, Santhali, English",
+      "photo": "https://randomuser.me/api/portraits/men/50.jpg",
+      "averageRating": 4.6,
+      "reviews": [
+        { "user": "Vikram Patel", "rating": 4.7, "comment": "Great at explaining rock formations." },
+        { "user": "Pooja Roy", "rating": 4.5, "comment": "Very engaging tour." }
+      ]
+    }
+  ],
+  "Sahibganj": [
+    {
+      "name": "Suman Kumari",
+      "city": "Sahibganj",
+      "mobile": "7753400491, 8833280094",
+      "email": "sumankumari471@example.com",
+      "tourist_spot_covered": "Hazaribagh National Park",
+      "language": "Hindi, English, Bengali",
+      "photo": "https://randomuser.me/api/portraits/women/42.jpg",
+      "averageRating": 4.7,
+      "reviews": [
+        { "user": "Anita Singh", "rating": 4.8, "comment": "Excellent for wildlife tours." },
+        { "user": "Rohit Mehra", "rating": 4.6, "comment": "Very informative and patient." }
+      ]
+    },
+    {
+      "name": "Abhishek Kumar",
+      "city": "Sahibganj",
+      "mobile": "9037034248, 7036479377",
+      "email": "abhishekkumar209@example.com",
+      "tourist_spot_covered": "Sun Temple Ranchi",
+      "language": "Hindi, Santhali, English",
+      "photo": "https://randomuser.me/api/portraits/men/60.jpg",
+      "averageRating": 4.5,
+      "reviews": [
+        { "user": "Sneha Gupta", "rating": 4.6, "comment": "Good knowledge of temple history." },
+        { "user": "Ajay Kumar", "rating": 4.4, "comment": "Friendly and helpful guide." }
+      ]
+    }
+  ],
+  "Lohardaga": [
+    {
+      "name": "Sunita Das",
+      "city": "Lohardaga",
+      "mobile": "9969091849, 7045000524",
+      "email": "sunitadas822@example.com",
+      "tourist_spot_covered": "Patratu Valley",
+      "language": "Hindi, Nagpuri, English",
+      "photo": "https://randomuser.me/api/portraits/women/28.jpg",
+      "averageRating": 4.6,
+      "reviews": [
+        { "user": "Manoj Sharma", "rating": 4.7, "comment": "Great for valley tours." },
+        { "user": "Lata Singh", "rating": 4.5, "comment": "Very engaging and knowledgeable." }
+      ]
+    }
+  ],
+  "Dhanbad": [
+    {
+      "name": "Suraj Prasad",
+      "city": "Dhanbad",
+      "mobile": "8257465554, 7850520724",
+      "email": "surajprasad862@example.com",
+      "tourist_spot_covered": "Dalma Wildlife Sanctuary",
+      "language": "Hindi, Santhali, English",
+      "photo": "https://randomuser.me/api/portraits/men/35.jpg",
+      "averageRating": 4.8,
+      "reviews": [
+        { "user": "Kiran Das", "rating": 5, "comment": "Best guide for wildlife." },
+        { "user": "Neha Patel", "rating": 4.6, "comment": "Very thorough and helpful." }
+      ]
+    },
+    {
+      "name": "Neha Verma",
+      "city": "Dhanbad",
+      "mobile": "9310560026, 7728240469",
+      "email": "nehaverma177@example.com",
+      "tourist_spot_covered": "Maluti Temples",
+      "language": "Hindi, English, Bengali",
+      "photo": "https://randomuser.me/api/portraits/women/47.jpg",
+      "averageRating": 4.4,
+      "reviews": [
+        { "user": "Rahul Sharma", "rating": 4.5, "comment": "Good temple guide." },
+        { "user": "Sita Roy", "rating": 4.3, "comment": "Friendly and informative." }
+      ]
+    }
+  ],
+  "Gumla": [
+    {
+      "name": "Naresh Kumar",
+      "city": "Gumla",
+      "mobile": "8615843008, 7708835746",
+      "email": "nareshkumar61@example.com",
+      "tourist_spot_covered": "Hundru Falls",
+      "language": "Hindi, Bengali",
+      "photo": "https://randomuser.me/api/portraits/men/14.jpg",
+      "averageRating": 4.5,
+      "reviews": [
+        { "user": "Puja Gupta", "rating": 4.6, "comment": "Great for waterfall tours." },
+        { "user": "Vikram Singh", "rating": 4.4, "comment": "Very helpful and safe." }
+      ]
+    }
+  ],
+  "Ramgarh": [
+    {
+      "name": "Dinesh Kumar",
+      "city": "Ramgarh",
+      "mobile": "7587017375, 7942145493",
+      "email": "dineshkumar332@example.com",
+      "tourist_spot_covered": "Hazaribagh National Park",
+      "language": "Hindi, English, Bengali",
+      "photo": "https://randomuser.me/api/portraits/men/29.jpg",
+      "averageRating": 4.7,
+      "reviews": [
+        { "user": "Anita Das", "rating": 4.8, "comment": "Excellent wildlife guide." },
+        { "user": "Ravi Sharma", "rating": 4.6, "comment": "Very knowledgeable." }
+      ]
+    }
+  ],
+  "Godda": [
+    {
+      "name": "Shweta Kumari",
+      "city": "Godda",
+      "mobile": "9328956526, 7874768223",
+      "email": "shwetakumari811@example.com",
+      "tourist_spot_covered": "Jonha Falls",
+      "language": "Hindi, Nagpuri, English",
+      "photo": "https://randomuser.me/api/portraits/women/31.jpg",
+      "averageRating": 4.6,
+      "reviews": [
+        { "user": "Suresh Patel", "rating": 4.7, "comment": "Great for waterfall tours." },
+        { "user": "Komal Roy", "rating": 4.5, "comment": "Very engaging guide." }
+      ]
+    },
+    {
+      "name": "Pankaj Sharma",
+      "city": "Godda",
+      "mobile": "9049814137, 7601680572",
+      "email": "pankajsharma34@example.com",
+      "tourist_spot_covered": "Netarhat",
+      "language": "Hindi, Bengali",
+      "photo": "https://randomuser.me/api/portraits/men/40.jpg",
+      "averageRating": 4.4,
+      "reviews": [
+        { "user": "Meena Singh", "rating": 4.5, "comment": "Good nature guide." },
+        { "user": "Ajay Verma", "rating": 4.3, "comment": "Friendly and helpful." }
+      ]
+    }
+  ],
+  "Pakur": [
+    {
+      "name": "Alok Ranjan",
+      "city": "Pakur",
+      "mobile": "8458726474, 9668352125",
+      "email": "alokranjan382@example.com",
+      "tourist_spot_covered": "Usri Falls",
+      "language": "Hindi, Santhali, English",
+      "photo": "https://randomuser.me/api/portraits/men/25.jpg",
+      "averageRating": 4.7,
+      "reviews": [
+        { "user": "Nita Das", "rating": 4.8, "comment": "Best guide for falls." },
+        { "user": "Rakesh Kumar", "rating": 4.6, "comment": "Very informative tour." }
+      ]
+    },
+    {
+      "name": "Dnyaneshwar",
+      "city": "Pakur",
+      "mobile": "8458726474, 9668352125",
+      "email": "Dnyaneshwar@example.com",
+      "tourist_spot_covered": "Usri Falls",
+      "language": "Hindi, Santhali, English",
+      "photo": "https://randomuser.me/api/portraits/men/25.jpg",
+      "averageRating": 4.7,
+      "reviews": [
+        { "user": "Nita Das", "rating": 4.8, "comment": "Best guide for falls." },
+        { "user": "Rakesh Kumar", "rating": 4.6, "comment": "Very informative tour." }
+      ]
+    }
+  ]
+}
