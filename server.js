@@ -102,11 +102,11 @@ app.use((err, req, res, next) => {
 const startServer = async () => {
     try {
         // Test database connection
-        const dbConnected = await testConnection();
-        if (!dbConnected) {
-            console.error('❌ Failed to connect to database. Please check your database configuration.');
-            process.exit(1);
-        }
+        // const dbConnected = await testConnection();
+        // if (!dbConnected) {
+        //     console.error('❌ Failed to connect to database. Please check your database configuration.');
+        //     process.exit(1);
+        // }
 
         // Initialize database tables
         // const tablesInitialized = await initializeTables();
